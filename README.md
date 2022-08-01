@@ -1,1 +1,1 @@
-# Crypto-Tracker: http://varungujarathi.me/Crypto-Tracker/
+# Crypto-Tracker: https://varungujarathi2001.github.io/Crypto-Tracker/
